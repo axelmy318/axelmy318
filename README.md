@@ -10,4 +10,4 @@ NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
 ReactJS, Javascript, NodeJS, PHP, SQL, C#, Unity, HTML & CSS (obviously), firebase, npm, git
 
 ## Techs I've used 👀
-MongoDB, C++, C, Java, CodeIgniter, Spotify API, DiscordJS, firestore, Lua, Bash
+MongoDB, C++, C, Java, CodeIgniter, Spotify API, DiscordJS, firestore, Lua, Bash, bootstrap
