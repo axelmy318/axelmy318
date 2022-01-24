@@ -15,4 +15,10 @@ NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
 ## Techs I've used 👀
  - Express, MongoDB, firestore
  - C++, C, Java, Lua, Bash
- - Many many APIs (DiscordJs, Spotify API, openweathermap API, Twilio,...)
+ - Many many APIs 
+   - Discord - Messaging app (like slack)
+   - Spotify - Music app
+   - openweathermap - Weather website
+   - Twilio - Send SMS
+   - Xibo - Digital Signage
+   - ...
