@@ -1,5 +1,5 @@
 # About me 👋
-Full stack developper (mainly web) who likes two things... Working on random project, and emojies 👀
+Full stack developer (mainly web) who likes two things... Working on random project, and emojies 👀
 
 ## Living at 🏠
 GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
