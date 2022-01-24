@@ -7,7 +7,12 @@ GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
 NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
 
 ## My favourites 😍
-ReactJS, Javascript, NodeJS, PHP, SQL, C#, Unity, Electron, HTML & CSS (obviously), firebase, npm, git
+ - ReactJS, Javascript, NodeJS, Electron, HTML & CSS (obviously), Bootstrap
+ - PHP, CodeIgniter, SQL
+ - C#, Unity
+ - Firebase, NPM, git
 
 ## Techs I've used 👀
-MongoDB, C++, C, Java, CodeIgniter, Spotify API, DiscordJS, firestore, Lua, Bash, Bootstrap
+ - Express, MongoDB, firestore
+ - C++, C, Java, Lua, Bash
+ - Many many APIs (DiscordJs, Spotify API, openweathermap API, Twilio,...)
