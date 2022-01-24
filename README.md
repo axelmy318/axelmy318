@@ -7,7 +7,7 @@ GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
 NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
 
 ## My favourites 😍
- - ReactJS, Javascript, NodeJS, Electron, HTML & CSS (obviously), Bootstrap
+ - ReactJS + Redux, Javascript, NodeJS, Electron, HTML & CSS (obviously), Bootstrap
  - PHP, CodeIgniter, SQL
  - C#, Unity
  - Firebase, NPM, git
