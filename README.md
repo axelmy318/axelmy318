@@ -12,7 +12,7 @@ NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
  - C#, Unity
  - Firebase, NPM, git
 
-## Techs I've used 👀
+## Other stuff I've used 👀
  - Express, MongoDB, firestore
  - C++, C, Java, Lua, Bash
  - Many many APIs 
