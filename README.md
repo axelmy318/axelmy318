@@ -7,18 +7,24 @@ GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
 NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
 
 ## My favourites 😍
- - ReactJS + Redux, Javascript, NodeJS, Electron, HTML & CSS (obviously), Bootstrap
- - PHP, CodeIgniter, SQL
- - C#, Unity
- - Firebase, NPM, git
+ - Front-end
+   - ReactJS + Redux, Javascript, NodeJS, Electron, HTML & CSS (obviously), Bootstrap
+ - Back-end
+   - PHP, CodeIgniter, SQL, Express
+ - Game developpement
+   - C#, Unity
+ - Others
+   - Firebase, NPM, git, composer
 
 ## Other stuff I've used 👀
- - Express, MongoDB, firestore
+ - MongoDB, firestore
  - C++, C, Java, Lua, Bash
  - Many many APIs 
-   - Discord - Messaging app (like slack)
+   - Discord - Slack-like messaging app
    - Spotify - Music app
-   - openweathermap - Weather website
+   - openweathermap - Weather database
    - Twilio - Send SMS
    - Xibo - Digital Signage
+   - GitHub - version control system
+   - Twitter - social network
    - ...
