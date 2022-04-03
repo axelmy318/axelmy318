@@ -19,7 +19,7 @@ Project showcase : [https://axelmy-projects-showcase.web.app](https://axelmy-pro
    - Firebase, NPM, git, composer
 
 ## Other stuff I've used 👀
- - MongoDB, firestore
+ - MongoDB, firestore, PostgreSQL, Oracle
  - C++, C, Java, Lua, Bash, Zend + Dojo
  - Many many APIs 
    - Discord - Slack-like messaging app
