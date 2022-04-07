@@ -29,4 +29,5 @@ Project showcase : [https://axelmy-projects-showcase.web.app](https://axelmy-pro
    - Xibo - Digital Signage
    - GitHub - Version Control System
    - Twitter - Social network
+   - Philips HUE Api - Control for home lights, LEDs, plugs, and other
    - ...
