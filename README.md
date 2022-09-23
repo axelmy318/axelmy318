@@ -1,6 +1,8 @@
 # About me 👋
 Full stack developer (mainly web)
 
+I like to create stuff that can be reused with as few lines of code as possible while maintaining a high customization level.
+
 ## Living at 🏠
 GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
 
@@ -15,8 +17,8 @@ Project showcase : [https://axelmy-projects-showcase.web.app](https://axelmy-pro
    - PHP, CodeIgniter, SQL, socket.io (networking lib), Express
  - Game developpement
    - C#, Unity, Mirror (networking lib)
- - Others
-   - Firebase, NPM, git, composer
+ - Tools
+   - Firebase, NPM, git, composer, docker
 
 ## Other stuff I've used 👀
  - MongoDB, firestore, PostgreSQL, Oracle
