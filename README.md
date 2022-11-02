@@ -3,6 +3,8 @@ Full stack developer (mainly web)
 
 I like to create stuff that can be reused with as few lines of code as possible while maintaining a high customization level.
 
+My interests range from coding video games, to making public react packages or creating dynamic website.
+
 ## Living at 🏠
 GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
 
