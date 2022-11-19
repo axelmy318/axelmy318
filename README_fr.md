@@ -10,7 +10,7 @@ GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
 
 NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
 
-Portfolio et démo de mes projets : [https://axelmy-projects-showcase.web.app](https://axelmy-projects-showcase.web.app)
+Portfolio et démo de mes projets : [https://axelmry.com](https://axelmry.com)
 
 ## 😍 Mes technos préférées 
  - Front-end
