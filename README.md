@@ -10,11 +10,11 @@ GitHub : [https://github.com/axelmy318](https://github.com/axelmy318)
 
 NPMJS : [https://www.npmjs.com/~axelmy](https://www.npmjs.com/~axelmy)
 
-Project showcase : [https://axelmy-projects-showcase.web.app](https://axelmy-projects-showcase.web.app)
+Project showcase : [https://axelmry.com](https://axelmry.com)
 
 ## 😍 My favourites 
  - Front-end
-   - ReactJS + Redux, Javascript, NodeJS, Electron, Bootstrap
+   - ReactJS + Redux, Javascript, NodeJS, Electron, HTML & CSS (obviously), Bootstrap
  - Back-end
    - PHP, CodeIgniter, SQL, socket.io (networking lib), Express
  - Game developpement
