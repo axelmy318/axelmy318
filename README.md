@@ -14,7 +14,7 @@ Project showcase : [https://axelmy-projects-showcase.web.app](https://axelmy-pro
 
 ## 😍 My favourites 
  - Front-end
-   - ReactJS + Redux, Javascript, NodeJS, Electron, HTML & CSS (obviously), Bootstrap
+   - ReactJS + Redux, Javascript, NodeJS, Electron, Bootstrap
  - Back-end
    - PHP, CodeIgniter, SQL, socket.io (networking lib), Express
  - Game developpement
