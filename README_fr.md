@@ -1,7 +1,7 @@
 # 👋 À propos de moi 
 Développeur full stack (principalement web)
 
-J'adore créer pleins de choses divers qui peuvent êtres réutilisées en très peu de ligne de code, tout en maintenant un haut niveau de customisation.
+J'adore créer pleins de choses qui peuvent êtres réutilisées en très peu de ligne de code, tout en maintenant un haut niveau de customisation.
 
 Mes intêrets vont de la création de jeux-vidéos, à la publications de paquets Node ou la mise en place de site web dynamiques.
 
