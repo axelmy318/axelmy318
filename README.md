@@ -14,7 +14,7 @@ Project showcase : [https://axelmry.com](https://axelmry.com)
 
 ## 😍 My favourites 
  - Front-end
-   - ReactJS + Redux, Javascript, NodeJS, Electron, Tauri, HTML & CSS (obviously), Bootstrap
+   - ReactJS + Redux, Javascript, NodeJS, Electron, Tauri, Bootstrap
  - Back-end
    - PHP, CodeIgniter, SQL, socket.io (networking lib), Express
  - Game developpement
