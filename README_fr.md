@@ -14,7 +14,7 @@ Portfolio et démo de mes projets : [https://axelmry.com](https://axelmry.com)
 
 ## 😍 Mes technos préférées 
  - Front-end
-   - ReactJS + Redux, Javascript, NodeJS, Electron, Bootstrap
+   - ReactJS + Redux, Javascript, NodeJS, Electron, Tauri, Bootstrap
  - Back-end
    - PHP, CodeIgniter, SQL, socket.io (librairie de networking), Express
  - Game developpement
