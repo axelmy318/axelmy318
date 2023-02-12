@@ -25,7 +25,7 @@ Project showcase : [https://axelmry.com](https://axelmry.com)
    - PHP, SQL, firestore, socket.io (networking lib), Express, NodeJS
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width='32px'/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width='32px' />    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width='32px' />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width='32px' />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"  width='32px' />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width='32px' />
