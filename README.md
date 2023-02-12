@@ -17,7 +17,6 @@ Project showcase : [https://axelmry.com](https://axelmry.com)
    - ReactJS + Redux, Javascript, Electron, Tauri, Bootstrap
  - Back-end
    - PHP, SQL, firestore, socket.io (networking lib), Express, NodeJS
-          
  - Game development
    - C#, Unity, Mirror (networking lib)
  - Tools
