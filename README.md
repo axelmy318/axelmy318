@@ -15,6 +15,7 @@ Project showcase : [https://axelmry.com](https://axelmry.com)
 ## 😍 My favourites 
  - Front-end
    - ReactJS + Redux, Javascript, Electron, Tauri, Bootstrap
+   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='32px' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='32px' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width='32px' />
@@ -22,6 +23,7 @@ Project showcase : [https://axelmry.com](https://axelmry.com)
     
  - Back-end
    - PHP, SQL, firestore, socket.io (networking lib), Express, NodeJS
+   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width='32px'/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width='32px' />    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width='32px' />
@@ -31,11 +33,13 @@ Project showcase : [https://axelmry.com](https://axelmry.com)
           
  - Game development
    - C#, Unity, Mirror (networking lib)
+   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width='32px' />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width='32px' />
           
  - Tools
    - Firebase, NPM, git, composer, docker
+   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width='32px' />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  width='32px' />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width='32px' />
