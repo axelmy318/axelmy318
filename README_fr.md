@@ -19,10 +19,13 @@ Portfolio et démo de mes projets : [https://axelmry.com](https://axelmry.com)
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='32px' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='32px' />
      
  - ### Back-end
-   - PHP, CodeIgniter, SQL, socket.io (librairie de networking), Express
+   - PHP, CodeIgniter, SQL, firestore & firebase cloud functions, socket.io (librairie de networking), Express
    
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width='32px'/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"  width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='32px' />
      
+ - ### Mobile developement
+   - React Native, Expo
+ 
  - ### Game developpement
    - C#, Unity, Mirror (librairie de networking)
    
