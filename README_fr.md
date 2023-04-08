@@ -14,9 +14,9 @@ Portfolio et démo de mes projets : [https://axelmry.com](https://axelmry.com)
 
 ## 😍 Mes technos préférées 
  - ### Front-end
-   - ReactJS + Redux, Javascript, NodeJS, Electron, Tauri, Bootstrap
+   - ReactJS + Redux, Javascript, Typescript, NodeJS, Electron, Tauri, Bootstrap
    
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='32px' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='32px' />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='32px' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width='32px' />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='32px' />
      
  - ### Back-end
    - PHP, CodeIgniter, SQL, firestore & firebase cloud functions, socket.io (librairie de networking), Express
